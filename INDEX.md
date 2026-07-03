@@ -145,6 +145,63 @@ Located at `theses/`.
 | `ShannonWilliam_DemandPagedUNIXSystem_1981_thesis.pdf` | Bill Shannon | 1981 | Demand-paged Unix VM — foundation of 4.2BSD paged VM |
 | `Shamim_Sharfuddin_Pirzada-1988-PhD-Thesis.pdf` | Shamim Pirzada | 1988 | Unix internals (dissertation) |
 
+
+
+## AUUGN — Australian Unix Users Group Newsletter
+
+Located at `tech-reports/auugn-index/`.
+
+Full 125-issue inventory in `AUUGN-inventory.txt` (Volumes 01.1 through
+V25.4, ~1978-2004). Two representative issues bundled:
+
+- `AUUGN-V01.1.pdf` — Volume 1 Issue 1 (foundational).
+- `AUUGN-V15.1.pdf` — mid-series continuity sample.
+
+Full corpus (577 MB) at:
+`https://www.tuhs.org/Archive/Documentation/AUUGN/`.
+
+AUUGN is a primary community source for the AT&T→BSD→Australian Unix
+branch. Particularly relevant for:
+
+- `heirloom-vi-darwin` — early Australian ex/vi contributions.
+- `heirloom-ancestors-darwin` — UNSW AUSAM tape lineage.
+- `heirloom-devtools-darwin` — early make/yacc/lex teaching material.
+
+
+
+## Reference cards (Bell Labs / AT&T)
+
+Located at `reference-cards/`.
+
+- `UNIX_Reference_Card_by_L.L.Cherry_OCR.pdf` — Lorinda Cherry's Bell
+  Labs UNIX Reference Card, OCR'd version.
+- `UNIX_Reference_Card_Second_Edition_by_L.L.Cherry.pdf` — 2nd edition.
+
+Full corpus (98 MB, including large-scan card + Release 4.0 guide +
+Quick Guide) at:
+`https://www.tuhs.org/Archive/Documentation/Cards/`.
+
+## Recordings — 1975 UNIX Code Walkthrough
+
+Located at `recordings/1975-code-walkthrough/`.
+
+Ken Thompson's 1975 code walkthrough at Bell Labs. Only the print
+artefacts are bundled:
+
+- `Eric_Allman_Notes.pdf` — Eric Allman's contemporary notes from the
+  walkthrough session.
+- `Readme.txt` — TUHS curator's context note.
+- `MP3-inventory.txt` — index of the 3 audio tapes (Tape 1, 2, 3)
+  hosted at TUHS.
+
+Audio recordings NOT bundled (large + Ken Thompson audio © his estate).
+Fetch under your own reading:
+`https://www.tuhs.org/Archive/Recordings/1975_Unix_Code_Walkthru/Ken_Thompson_1975_UNIX_Code_Walk_Thru_-_Tape_1.mp3`
+(and tapes 2, 3).
+
+Eric Allman's V6 tape from that walkthrough is separately manifested in
+`moonman81/heirloom-ancestors-darwin` (V6-donor-tapes.md).
+
 ## Oral History
 
 Available at `https://www.tuhs.org/Archive/Documentation/OralHistory/`.
