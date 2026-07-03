@@ -113,6 +113,38 @@ Documents specifically cited by the sibling heirloom-*-darwin repos:
 | 1029 | A System for Typesetting Mathematics | heirloom-doctools |
 | 1119 | NROFF/TROFF User's Manual (revision) | heirloom-doctools |
 
+
+
+## Standalone papers (non-BSTJ)
+
+Selected papers not in the BSTJ 1978 issue but historically important
+to the Heirloom lineage.  Located at `papers/standalone/`.
+
+| File | Approx title / topic |
+| :--- | :--- |
+| `1eUnix_creation_restoration.pdf` | Reid Kellogg — restoration writeup for V1 Unix (Bell Labs 1971) |
+| `2dsh.pdf` | 2d/sh — Rob Pike two-dimensional shell prototype |
+| `Four_Generations_of_Portable_C_Compiler_DM_Kristol_19860609.pdf` | Kristol 1986 — direct reference for the PCC evolution cited in `heirloom-devtools-darwin` BIBLIOGRAPHY |
+| `Interprocess_Communications_in_the_8th_Edition_Unix_Ritchie+Presotto_USENIX_SUMMER_19850612.pdf` | Ritchie + Presotto — V8 IPC (streams foundation) |
+| `Spi15c.pdf` | early Bell Labs Software Research paper (~1975) |
+| `TuningUnixLex_Jacobson_USENIX_Winter_1987_pp163_164.pdf` | Jacobson 1987 — tuning Unix `lex` performance |
+| `US4135240.pdf` | US Patent 4,135,240 — foundational Unix implementation patent |
+| `Unix_Users_Talk_Notes_Jan73.pdf` | 1973 Bell Labs internal Unix talk notes |
+| `lions_PCCpass2_jun1979.pdf` | John Lions 1979 — commentary on PCC pass 2 |
+| `ugly.pdf` | 'The UGLY manual' — Bell Labs typographical documentation |
+| `unix_cacm74.pdf` | Ritchie + Thompson 1974 CACM — The UNIX Time-Sharing System (foundational) |
+
+## Theses
+
+Historically important PhD theses foundational for the C + Unix lineage.
+Located at `theses/`.
+
+| File | Author | Year | Contribution |
+| :--- | :--- | ---: | :--- |
+| `LefflerSamuel_ImplementationOfCProgrammingLanguage_1981_thesis.pdf` | Sam Leffler | 1981 | C compiler implementation — foundation of 4.1BSD `cc` |
+| `ShannonWilliam_DemandPagedUNIXSystem_1981_thesis.pdf` | Bill Shannon | 1981 | Demand-paged Unix VM — foundation of 4.2BSD paged VM |
+| `Shamim_Sharfuddin_Pirzada-1988-PhD-Thesis.pdf` | Shamim Pirzada | 1988 | Unix internals (dissertation) |
+
 ## Oral History
 
 Available at `https://www.tuhs.org/Archive/Documentation/OralHistory/`.
